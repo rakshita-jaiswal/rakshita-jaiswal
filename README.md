@@ -20,7 +20,9 @@ Python · SQL · OpenAI / Anthropic APIs · LangChain · Plaid / Stripe / Square
 
 **Reach me**
 - 🌐 [rakshitajaiswal.netlify.app](https://rakshitajaiswal.netlify.app/)
-- 💼 LinkedIn — [add your URL]
-- 📫 rakshita.jaiswal25@gmail.com
+- 💼 LinkedIn — [[My LinkedIn](https://www.linkedin.com/in/rakshita-jaiswal/)]
+- 📫 rakshitajaiswal07@gmail.com
 
 ---
+
+Verification for WhyHireWrong? — September 23, 2026
