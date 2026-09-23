@@ -13,7 +13,7 @@ AI Product Manager focused on LLM-based systems, model evaluation, and the messy
 - 🧪 Cut LLM error escalations 40% by rebuilding the eval framework around human-feedback triage
 
 **Building on the side**
-- 💰 [FinSense](FinSense) — AI financial assistant for SMBs. GPT-4 + FinBERT for categorization, RAG for natural language queries, Prophet for cash flow forecasting. 95% categorization accuracy across 50 beta users.
+- 💰 [FinSense](https://rakshita-jaiswal.github.io/FinSense/) — AI financial assistant for SMBs. GPT-4 + FinBERT for categorization, RAG for natural language queries, Prophet for cash flow forecasting. 95% categorization accuracy across 50 beta users.
 
 **Stack I reach for**
 Python · SQL · OpenAI / Anthropic APIs · LangChain · Plaid / Stripe / Square · Mixpanel · Figma · Jira
